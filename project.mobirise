@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Park Inn Roblox",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -33,7 +33,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 18,
-    "versionPublish": "4.8.1"
+    "versionPublish": "4.8.1",
+    "favicon": "@PROJECT_PATH@/assets/images/kisspng-park-inn-by-radisson-nottingham-yas-island-radisso-park-5ad6e651b9f2a0.1292303215240331057617-128x43.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
